@@ -8,6 +8,8 @@ do texto bruto até as representações vetoriais (TF-IDF e embeddings).
 - Renata Borges
 - Felipe dos Santos 
 - Fabio Silveira
+- Otavio Mendes
+- Vitor Henrique
 
 Amostra do grupo: 15.000 avaliações, semente 20.
 
